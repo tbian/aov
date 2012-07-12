@@ -1,0 +1,68 @@
+﻿Build started 7/10/2012 8:02:37 PM.
+     1>Project "D:\myasm\vc10\minimal.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching ".\Debug\minimal.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug/minimal.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Laboratory\OpenCV\OpenCV-2.4.0\Debug\install\lib" odbc32.lib odbccp32.lib ..\gsl\lib_ms\mini_gslML.lib ..\gsl\lib_ms\gslcblasML.lib ..\jpeg\lib_ms\libjpeg.lib opencv_calib3d240d.lib opencv_contrib240d.lib opencv_core240d.lib opencv_features2d240d.lib opencv_flann240d.lib opencv_gpu240d.lib opencv_highgui240d.lib opencv_imgproc240d.lib opencv_legacy240d.lib opencv_ml240d.lib opencv_nonfree240d.lib opencv_objdetect240d.lib opencv_photo240d.lib opencv_stitching240d.lib opencv_ts240d.lib opencv_video240d.lib opencv_videostab240d.lib setargv.obj binmode.obj ..\png\pnglib\libpng.lib ..\png\zlib\zlib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCD /NODEFAULTLIB:LIBC /MANIFEST /ManifestFile:".\Debug\minimal.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/minimal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\minimal.lib" /MACHINE:X86 .\Debug\minimal.exe.embed.manifest.res
+         .\Debug/regex.obj
+         .\Debug/find.obj
+         .\Debug/follow.obj
+         .\Debug/forward.obj
+         .\Debug/initnet.obj
+         .\Debug/list.obj
+         .\Debug/search.obj
+         .\Debug/tclHash.obj
+         .\Debug/asmsearch.obj
+         .\Debug/atface.obj
+         .\Debug/err.obj
+         .\Debug/imequalize.obj
+         .\Debug/imfile.obj
+         .\Debug/imwrite.obj
+         .\Debug/imgiven.obj
+         .\Debug/hypot.obj
+         .\Debug/imshape.obj
+         .\Debug/imutil.obj
+         .\Debug/initasm.obj
+         .\Debug/jpegutil.obj
+         .\Debug/landmarks.obj
+         .\Debug/minimal.obj
+         .\Debug/mat.obj
+         .\Debug/matvec.obj
+         .\Debug/mchol.obj
+         .\Debug/pngutil.obj
+         .\Debug/mrand.obj
+         .\Debug/prof.obj
+         .\Debug/readasm.obj
+         .\Debug/readconf.obj
+         .\Debug/readpng.obj
+         .\Debug/rgbimutil.obj
+         .\Debug/safe_alloc.obj
+         .\Debug/shapefile.obj
+         .\Debug/shapemodel.obj
+         .\Debug/sparsemat.obj
+         .\Debug/startshape.obj
+         .\Debug/stasm.obj
+         .\Debug/tab.obj
+         .\Debug/util.obj
+         .\Debug/violajones.obj
+         .\Debug/vjhand.obj
+         .\Debug/wrbmp.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\minimal.exe.embed.manifest" /manifest .\Debug\minimal.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         minimal.vcxproj -> D:\myasm\vc10\.\Debug\minimal.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\minimal.unsuccessfulbuild".
+         Touching ".\Debug\minimal.lastbuildstate".
+     1>Done Building Project "D:\myasm\vc10\minimal.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49
